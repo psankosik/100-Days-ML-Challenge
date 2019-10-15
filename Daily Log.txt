@@ -1,0 +1,5 @@
+Day 1
+Simple Linear Regression by Andrew Ng
+- revise about simple linear regression concept
+- revise cost function 
+- take summary note in Goodnotes
