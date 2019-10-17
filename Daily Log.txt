@@ -3,3 +3,8 @@ Simple Linear Regression by Andrew Ng
 - revise about simple linear regression concept
 - revise cost function 
 - take summary note in Goodnotes
+Day2 
+Simple Linear Regression by Andrew Ng
+- Focus on Gradient Descent and it algorithm
+- Finish coding assignment 1
+- take summary note in Goodnotes
