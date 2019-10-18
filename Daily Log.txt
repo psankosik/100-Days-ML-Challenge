@@ -10,7 +10,13 @@ Simple Linear Regression by Andrew Ng
 - take summary note in Goodnotes
 Day 3
 Multivarient Linear Regression by Andrew Ng
-- Study about Linear Regressio with many features
+- Study about Linear Regression with many features
 - Feature Scalling 
 - Learning Rate 
 - take summary note in Goodnotes
+Day 4
+Multivarient Linear Regression by Andrew Ng
+- Feature and Polynomial Regression
+- Normal Equation
+- Make simple version of coding assignment 1 with sklearn
+
