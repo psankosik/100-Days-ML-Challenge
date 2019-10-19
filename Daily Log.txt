@@ -19,4 +19,10 @@ Multivarient Linear Regression by Andrew Ng
 - Feature and Polynomial Regression
 - Normal Equation
 - Make simple version of coding assignment 1 with sklearn
+Day 5
+Boston house price analysis
+- Data: Boston House
+- Method : Linear Regression
+- Simple analysis of Boston house price
+- Still need to wrap up and conclude
 
