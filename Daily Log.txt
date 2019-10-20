@@ -25,4 +25,9 @@ Boston house price analysis
 - Method : Linear Regression
 - Simple analysis of Boston house price
 - Still need to wrap up and conclude
-
+Day 6 
+Logistic Regression 
+- What is classificaton and logistic regression
+- Hypothesis Representation
+- Decision Boundary
+- Summary note in Goodnotes
