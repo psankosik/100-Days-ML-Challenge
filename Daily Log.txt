@@ -31,3 +31,12 @@ Logistic Regression
 - Hypothesis Representation
 - Decision Boundary
 - Summary note in Goodnotes
+Day 7 
+Statistic revise
+- Confidence level
+- Hypothesis testing
+Day 8 
+Logistic Regression 
+- Cost function and simplified version
+- Gradient descent
+- Summary note in Goodnotes
