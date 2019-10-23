@@ -26,7 +26,7 @@ Boston house price analysis
 - Simple analysis of Boston house price
 - Still need to wrap up and conclude
 Day 6 
-Logistic Regression 
+Logistic Regression by Andrew Ng
 - What is classificaton and logistic regression
 - Hypothesis Representation
 - Decision Boundary
@@ -36,7 +36,12 @@ Statistic revise
 - Confidence level
 - Hypothesis testing
 Day 8 
-Logistic Regression 
+Logistic Regression by Andrew Ng
 - Cost function and simplified version
 - Gradient descent
 - Summary note in Goodnotes
+Day 9
+Logistic Regression by Andrew Ng
+- Advance optimization
+- Multiclass classification
+- Under/Overfitting
