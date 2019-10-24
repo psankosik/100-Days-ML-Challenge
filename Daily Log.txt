@@ -45,3 +45,8 @@ Logistic Regression by Andrew Ng
 - Advance optimization
 - Multiclass classification
 - Under/Overfitting
+Day 10 
+Regularization by Andrew Ng
+- Overfitting problem
+- Cost function
+- Regularizaton on linear and logistic regression
