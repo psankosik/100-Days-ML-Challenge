@@ -50,3 +50,6 @@ Regularization by Andrew Ng
 - Overfitting problem
 - Cost function
 - Regularizaton on linear and logistic regression
+Day 10 
+Review past material
+- Work on assignment 1 addition exercise
