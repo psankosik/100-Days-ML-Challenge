@@ -61,3 +61,8 @@ Day 13
 Image processing IOT
 - Work on image processing
 - Line, circle, face detection
+Day 14 
+Feature Engineering (Medium)
+- https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+- Imputation, Handling Outlier, Binning, Log Transform
+- Summary note in Goodnotes
