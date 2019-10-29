@@ -66,3 +66,9 @@ Feature Engineering (Medium)
 - https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 - Imputation, Handling Outlier, Binning, Log Transform
 - Summary note in Goodnotes
+Day 15
+Feature Engineering (Medium)
+- https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+- One-hot encoding, Grouping Operations, Scaling, Extracting Date
+- Summary note in Goodnotes
+
