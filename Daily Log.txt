@@ -71,4 +71,21 @@ Feature Engineering (Medium)
 - https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 - One-hot encoding, Grouping Operations, Scaling, Extracting Date
 - Summary note in Goodnotes
+Day 16
+Logistic Regrssion by Andrew ng
+- Finished assignment 2
+- review logistic regression
+Day 17
+Day off 
+- Sick
+Day 18
+Industrial Forecasting
+- Revise ARMA and ARIMA
+Day 19
+Day off 
+- Sick
+Day 20
+Industrial Forecasting 
+- Simple linear regression
+- Multi linear regression
 
