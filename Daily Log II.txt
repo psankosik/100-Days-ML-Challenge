@@ -1,0 +1,8 @@
+Day 1
+Machine Learning Andrew Ng (Week4)
+- Neural Network
+- Model Motivation
+- Model Representation
+- Coding Assignment#3
+Neural Network and Deep Learning Andrew Ng (Week1)
+- Introduction to deep learning
