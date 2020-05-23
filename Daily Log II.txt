@@ -6,3 +6,9 @@ Machine Learning Andrew Ng (Week4)
 - Coding Assignment#3
 Neural Network and Deep Learning Andrew Ng (Week1)
 - Introduction to deep learning
+
+Day 2
+Data Vizualization and Communication with Tableau (Week1)
+- Introduction
+- SMART Goal
+- Eliticitation process
