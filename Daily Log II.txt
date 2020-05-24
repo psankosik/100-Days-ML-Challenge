@@ -12,3 +12,9 @@ Data Vizualization and Communication with Tableau (Week1)
 - Introduction
 - SMART Goal
 - Eliticitation process
+
+Day 3 
+Data Science Methodology submit financial aid 
+Data Vizualization and Communication with Tableau (Week1&2)
+- SPAP Flowchart
+- Introduction(Week2)
