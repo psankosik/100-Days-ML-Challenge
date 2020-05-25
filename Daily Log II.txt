@@ -18,3 +18,11 @@ Data Science Methodology submit financial aid
 Data Vizualization and Communication with Tableau (Week1&2)
 - SPAP Flowchart
 - Introduction(Week2)
+
+Day 4
+Business Metrics for Dara-Driven Company submit financial aid 
+Data Science Methodology (Week1)
+- Intoduction
+- From problem to approach
+- From requirement to collection
+ 
