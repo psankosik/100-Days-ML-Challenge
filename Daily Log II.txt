@@ -25,4 +25,12 @@ Data Science Methodology (Week1)
 - Intoduction
 - From problem to approach
 - From requirement to collection
+
+Day 5
+Kaggle Python exercise
+- Hello, Python
+- Function and Getting Help
+- Booleans and Conditionals
+- Lists
+- Loops and List Comprehensions
  
