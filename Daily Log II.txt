@@ -33,4 +33,15 @@ Kaggle Python exercise
 - Booleans and Conditionals
 - Lists
 - Loops and List Comprehensions
- 
+
+Day 6
+Kaggle Python exercise
+- String and Dictionaries
+- Working with External Libraries
+ Kaggle Intro to Machine Learning exercise
+- Basic EDA
+- First ML model
+- Model Validation
+Data Science Methodology (Week2)
+- From understanding to preparation
+- From Modeling to Evaluation
