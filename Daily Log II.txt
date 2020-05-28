@@ -43,5 +43,14 @@ Kaggle Python exercise
 - First ML model
 - Model Validation
 Data Science Methodology (Week2)
-- From understanding to preparation
+- From Understanding to Preparation
 - From Modeling to Evaluation
+
+Day 7
+Kaggle Intro to Machine Learning exercise
+- Underfitting and Overfitting
+- Random Forest
+Data Science Methodology (Week3)
+- From Deployment to Feedback
+
+
