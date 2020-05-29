@@ -53,4 +53,10 @@ Kaggle Intro to Machine Learning exercise
 Data Science Methodology (Week3)
 - From Deployment to Feedback
 
+Day 8 
+Data Science Methodology (week3)
+- Final Quiz
+Data Vizualization (week2)
+- Introduction
+
 
