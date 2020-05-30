@@ -60,3 +60,12 @@ Data Vizualization (week2)
 - Introduction
 
 
+Day 9
+Machine Learning Andrew Ng (week5)
+Neural Network and Deep Learning Andrew Ng (week2)
+- Logistic as Neural Network 
+- Cost Function 
+- Trying to understand Back Propagation
+
+
+
