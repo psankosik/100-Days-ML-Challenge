@@ -67,5 +67,11 @@ Neural Network and Deep Learning Andrew Ng (week2)
 - Cost Function 
 - Trying to understand Back Propagation
 
+Day 10
+Machine Learning Andrew Ng (week5)
+- Neural Network Learning
+- Backpropagation
+- Coding Assignment #4
+
 
 
