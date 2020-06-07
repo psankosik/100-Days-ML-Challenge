@@ -73,5 +73,11 @@ Machine Learning Andrew Ng (week5)
 - Backpropagation
 - Coding Assignment #4
 
+Day 11
+Machine Learning Andrew Ng (week6)
+- Evaluate Model
+- Model Diagnosis
+- Bias vs Variance
+- Part1 Quiz
 
 
