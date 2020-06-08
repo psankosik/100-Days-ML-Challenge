@@ -80,4 +80,12 @@ Machine Learning Andrew Ng (week6)
 - Bias vs Variance
 - Part1 Quiz
 
+Day 12
+Machine Learning Andrew Ng (week6)
+- Coding Assignment #5
+Data Science Methodology (week3)
+- Wrap up
+- Final Assignement
+
+
 
